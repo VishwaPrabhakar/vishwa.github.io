@@ -16,7 +16,6 @@ Don't forget to drop hi on my social profiles please visit[LinkedIn](https://www
 -Machine Learning
 -Certified Ethical Hacker 
 ```markdown
-Syntax highlighted code block
 
 
 
