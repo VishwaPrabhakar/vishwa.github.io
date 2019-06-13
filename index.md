@@ -16,7 +16,7 @@ Don't forget to drop hi on my social profiles please visit[LinkedIn](https://www
 -DataScience
 -Data Analytics using Python and R.
 -Machine Learning
--Certified Ethical Hacker 
+-VAPT 
 ```markdown
 
 ```
