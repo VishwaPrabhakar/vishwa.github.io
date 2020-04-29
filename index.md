@@ -5,7 +5,7 @@
 
 ![Image](https://github.com/VishwaPrabhakar/vishwa.github.io/blob/master/me.jpg)
 #### I am all about Data and its Security.
-#### Cuurently working as Information Security and Data Analyst at CodecNetworks Pvt. Ltd.(India). 
+#### Cuurently working as Information Security and Data Analyst at .......... Pvt. Ltd.(India). 
 #### Most of my Job revolves around securing data and working on it interms of modeling and Analyzing.
 You can visit my public project at the [Here on GitHub](https://github.com/VishwaPrabhakar)
 
